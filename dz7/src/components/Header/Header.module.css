@@ -1,0 +1,8 @@
+.header {
+    background-color: rgba(185, 185, 185, 0.65);
+    padding: 15px;
+}
+
+.active {
+    color: red;
+}
